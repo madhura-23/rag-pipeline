@@ -1,0 +1,39 @@
+# Virtual environments
+venv/
+.venv/
+ENV/
+env/
+**/venv/
+**/env/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+.env.local
+.env.*
+
+# Streamlit secrets and cache
+.streamlit/
+.streamlit/secrets.toml
+
+# IDEs
+.vscode/
+.idea/
+
+# Large models / vector stores (if they are saved locally)
+faiss_index/
+*.bin
+*.pkl
+
+# Temp files
+*.tmp
+uploaded_*
+
+# OS
+.DS_Store
+Thumbs.db
