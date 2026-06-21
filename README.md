@@ -157,7 +157,7 @@ rag-pipeline/
 
 <div align="center">
 
-**Madhura Bhat**  
+**Madhura Bhatt**  
 B.Tech AI & Data Science | ML · NLP · GenAI · Full-Stack
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhura%20Bhat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhura-bhatt23)
